@@ -1,4 +1,4 @@
-
+# !!!! IMPORTANT: DUE TO THE CHANGE OF SWIFT APIS, AND MY INCOMPETENCE TO MAINTAIN THE PROJECT, THE MAUS PROJECT WILL BE TEMPORARILY ARCHIEVED, PLEASE DO NOT TRY TO USE THE SOFTWARE AS IT MIGHT CAUSE CORRUPTED MOVEMENTS FOR YOU MOUSE, THANK YOU FOR YOUR SUPPORT AND UNDERSTANDING.
 # 🖱️ Maus
 
 **Maus** is a lightweight macOS utility that brings **physics-based smooth scrolling** to your mouse, transforming discrete scroll wheel input into fluid, trackpad-like motion. Built using **SwiftUI**, it integrates seamlessly into the macOS **menu bar** and stays out of your way—unless you need it.
